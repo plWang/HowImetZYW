@@ -228,7 +228,7 @@ a.down-btn span.fa.fa-angle-down {
 }
 
 #overview-video {
-	background: url(../img/double/dog.jpg);
+	background: url(../img/double/Dog.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -392,7 +392,7 @@ a.btn.send-btn:hover{
 }
 
 #clients {
-	background: url(../img/double/christmas.jpg);
+	background: url(../img/double/Christmas.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
